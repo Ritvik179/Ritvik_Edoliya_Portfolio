@@ -3,7 +3,7 @@
 # https://blowfish.page/docs/getting-started/
 
 theme = "blowfish"
-baseURL = "https://ritvik-edoliya.github.io/"
+baseURL = "https://ritvik179.github.io/Ritvik_Edoliya_Portfolio/"
 defaultContentLanguage = "en"
 
 enableRobotsTXT = true
