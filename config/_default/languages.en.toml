@@ -1,0 +1,17 @@
+disabled = false
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "Ritvik Edoliya"
+
+[params]
+  displayName = "EN"
+  isoCode = "en"
+  rtl = false
+  dateFormat = "2 January 2006"
+  description = "Portfolio of Ritvik Edoliya"
+
+[params.author]
+  name = "Ritvik Edoliya"
+  headline = "Welcome to my Portfolio"
+  bio = "Hello! I'm Ritvik Edoliya. Welcome to my personal portfolio."
